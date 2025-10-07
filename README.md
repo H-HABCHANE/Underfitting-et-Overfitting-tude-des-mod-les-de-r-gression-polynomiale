@@ -1,0 +1,2 @@
+# Underfitting-et-Overfitting-tude-des-mod-les-de-r-gression-polynomiale
+Ce projet explore les concepts d'underfitting (sous-apprentissage) et d'overfitting (sur-apprentissage) à travers la modélisation par régression polynomiale. Nous utilisons un jeu de données simulé où la variable cible Y est générée à partir de X par la relation : Y=cos ⁡ ( 3 (π /2) X ) + ϵ, avec X uniformément distribué et  ϵ  un bruit gaussien.
